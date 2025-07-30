@@ -15,13 +15,16 @@ This project outlines the post-install configuration of the open-source help des
 
 - Windows 10</b> (22H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Project Overview</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Section 1: osTicket Overview
+- Section 2: Configuring Roles
+- Section 3: Configuring Departments
+- Section 4: Configuring Teams
+- Section 5: Configuring Agents
+- Section 6: Configuring Users
+- Section 7: Configuring SLA
+- Section 8: Configuring Help Topics
 
 <h2>Walkthrough</h2>
 <h3> Section 1: osTicket Overview </h3>
@@ -113,6 +116,71 @@ This project outlines the post-install configuration of the open-source help des
   - I assigned him to the "Support" department with the role of "View-only".
   - The View-only role limits his access to viewing tickets without the ability to edit, respond, or manage settings.
 
+</p>
+<br />
+
+<h3> Section 6: Configuring Users </h3>
+<p>
+<img src="https://github.com/user-attachments/assets/5f028e7e-16b0-44e6-926c-0c121b176cf6" width=600 />
+</p>
+<p>
+   
+  - Users in osTicket represent the end-users who submit support tickets to report issues or request assistance.
+  - I created a user named "Karen", who will be used to submit support tickets in a later project.
+
+</p>
+<br />
+
+<h3> Section 7: Configuring SLA (Service Level Agreement) </h3>
+<p>
+<img src="https://github.com/user-attachments/assets/6cc7bd3b-3848-41a4-b88b-392a8d587b88" width=800/>
+</p>
+<p>
+
+  - In osTicket, an SLA (Service Level Agreement defines the expected response and resolution time for support tickets based on priority or issue type.
+  - I created my first SLA plan named "Sev-A", representing high-severity problems that require faster response and resolution times.
+  - I set a 1-hour grace period to ensure tickets are marked overdue quickly if not addressed within the expected timeframe.
+  - I selected a 24/7 schedule so the SLA applies even outside of business hours.
+
+
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/b7651224-44f1-4531-bcd7-228d1236c7f4" width=800 />
+</p>
+<p>
+
+  - Next, I created another SLA plan named "Sev-B", representing medium-severity issues which are less urgent than Sev-A.
+  - I set a 4-hour grace period to ensure timely responses without the urgency level of Sev-A
+  - I applied a 24/7 schedule to ensure ongoing support.
+
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/100ead50-7710-4631-b2b5-782ff93eb9bf" width=800 />
+</p>
+<p>
+
+   - Lastly, I created another SLA plan named "Sev-C" for low-severity tickets such as general inquiries or non-urgent issues.
+   - I assigned a grace period of 8 hours to allow agents to prioritize more critical tasks first.
+   - I also set the schedule to operate during business hours only.
+
+</p>
+<br />
+
+<h3> Section 8: Configuring Help Topics </h3>
+
+<p>
+<img src="https://github.com/user-attachments/assets/8bcefef6-d4da-4f4f-b605-3842aee58219" width=800 />
+</p>
+<p>
+
+  - Help Topics in osTicket are used to categorize tickets based on the type of issue reported by the end-user.
+  - I created a series of Help Topics to categorize support requests by issue type and priority such as "Password Reset", "General Inquiry", and "Business Critical Outage".
+   
+   
 
 
 
