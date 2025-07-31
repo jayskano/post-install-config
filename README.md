@@ -120,13 +120,19 @@ This project outlines the post-install configuration of the open-source help des
 <br />
 
 <h3> Section 6: Configuring Users </h3>
-<p>
-<img src="https://github.com/user-attachments/assets/624797de-e606-4d7e-bb1c-d13a25710d52" />
-</p>
-<p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8bd07365-8059-4ba8-8704-42a7e32eabef" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/51c59f5b-ff5c-47a9-ae1c-5ec3c7cd21c8" />
+  </td>
+  </tr>
+</table>
    
   - Users in osTicket represent the end-users who submit support tickets to report issues or request assistance.
-  - I created a user named "Karen", who will be used to submit support tickets in a later project.
+  - I created two users named "Karen" and "Ken", who will both be used to submit support tickets in a later project.
 
 </p>
 <br />
