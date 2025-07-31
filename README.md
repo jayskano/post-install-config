@@ -83,8 +83,8 @@ This project outlines the post-install configuration of the open-source help des
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/4a8e0089-ac9b-4ce5-98a7-5c8cc559b13a" />
-  </td>
+     <img src="https://github.com/user-attachments/assets/201c210f-9dc5-41ec-8de9-43a33e06972a" />
+    </td>
     <td>
       <img src="https://github.com/user-attachments/assets/3ad78acd-7dab-4421-a5b4-686437616784" width=1200/>
   </td>
@@ -104,24 +104,24 @@ This project outlines the post-install configuration of the open-source help des
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/d8a038cd-0755-43dd-97de-43611b2a9c6e" width=1400/>
-</td>
+      <img src="https://github.com/user-attachments/assets/29ebeafd-a8a0-4e5f-830a-3b751ddf3ab5" />
+    </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/e1730ec4-a11c-4eeb-b2fa-2b2603f4dcbf" width=1800 />
+      <img src="https://github.com/user-attachments/assets/f99cb707-d277-45ea-8e26-6afedbcc5683" width=1200 />
  </td>
   </tr>
 </table>
 
   - Next, I created another agent named "John Doe".
-  - I assigned him to the "Support" department with the role of "View-only".
-  - The View-only role limits his access to viewing tickets without the ability to edit, respond, or manage settings.
+  - I assigned him to the "Support" department with the role of "Expanded Access".
+  - The Expanded Access role allows him to view and manage tickets across multiple departments, but with limited administrative privileges.
 
 </p>
 <br />
 
 <h3> Section 6: Configuring Users </h3>
 <p>
-<img src="https://github.com/user-attachments/assets/5f028e7e-16b0-44e6-926c-0c121b176cf6" width=600 />
+<img src="https://github.com/user-attachments/assets/624797de-e606-4d7e-bb1c-d13a25710d52" />
 </p>
 <p>
    
