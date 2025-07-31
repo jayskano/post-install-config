@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Configuration and Setup</h1>
-This project outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Setup and Configuration</h1>
+This project documents the post-install configuration of the open-source help desk ticketing system osTicket. I configure departments, roles, SLA plans, users and user permissions to simultate realistic IT support structure. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -174,6 +174,12 @@ This project outlines the post-install configuration of the open-source help des
 
   - Help Topics in osTicket are used to categorize tickets based on the type of issue reported by the end-user.
   - I created a series of Help Topics to categorize support requests by issue type and priority such as "Password Reset", "General Inquiry", and "Business Critical Outage".
+
+</p>
+<br />
+
+<h2>Conclusion</h2>
+This project gave me the hands-on experience in setting up a functional help desk system tailored to an IT support workflow. I developed a deeper understanding of the IT support structure and how effective configurations improves ticket management and team efficiency.
    
    
 
