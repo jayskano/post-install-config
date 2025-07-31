@@ -179,7 +179,7 @@ This project documents the post-install configuration of the open-source help de
 <br />
 
 <h2>Conclusion</h2>
-This project gave me the hands-on experience in setting up a functional help desk system tailored to an IT support workflow. I developed a deeper understanding of the IT support structure and how effective configurations improves ticket management and team efficiency.
+This project gave me the hands-on experience in setting up a functional help desk system tailored to an IT support workflow. I developed a deeper understanding of the IT support structure and how effective configurations improves ticket management and team efficiency. This laid the groundwork for simulating a real-world help desk environment.
    
    
 
