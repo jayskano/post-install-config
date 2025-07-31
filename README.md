@@ -15,17 +15,6 @@ This project outlines the post-install configuration of the open-source help des
 
 - Windows 10</b> (22H2)
 
-<h2>Project Overview</h2>
-
-- Section 1: osTicket Overview
-- Section 2: Configuring Roles
-- Section 3: Configuring Departments
-- Section 4: Configuring Teams
-- Section 5: Configuring Agents
-- Section 6: Configuring Users
-- Section 7: Configuring SLA
-- Section 8: Configuring Help Topics
-
 <h2>Walkthrough</h2>
 <h3> Section 1: osTicket Overview </h3>
 <p>
