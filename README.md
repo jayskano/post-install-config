@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Setup and Configuration</h1>
+<h1>osTicket - Post-Installation Setup and Configuration</h1>
 This project documents the post-install configuration of the open-source help desk ticketing system osTicket. I configure departments, roles, SLA plans, users and user permissions to simultate realistic IT support structure. <br />
 
 <h2>Environments and Technologies Used</h2>
